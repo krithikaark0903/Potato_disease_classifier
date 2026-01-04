@@ -9,7 +9,15 @@
     "material-ui-dropzone": "^3.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
+=======
+<<<<<<< HEAD
+    "react-scripts": "^5.0.1",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> 9571f57 (Initial commit)
+>>>>>>> 0161a1dd12e8b2898a5429f476cbb26d069ed23f
     "web-vitals": "^1.1.2"
   },
   "scripts": {
